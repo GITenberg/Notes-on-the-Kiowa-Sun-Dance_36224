@@ -1,0 +1,28 @@
+_repo: Notes-on-the-Kiowa-Sun-Dance_36224
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spier, Leslie
+    birthdate: 1893
+    deathdate: 1961
+    gutenberg_agent_id: '38158'
+    url: http://www.gutenberg.org/2009/agents/38158
+description: ''
+gutenberg_issued: '2011-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36224'
+  lccn: '22000663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Kiowa Indians'
+- !lcsh 'Sun dance'
+title: Notes on the Kiowa Sun Dance
+url: http://www.gutenberg.org/ebooks/36224
